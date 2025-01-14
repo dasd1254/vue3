@@ -44,7 +44,7 @@ import { backToHome } from '@/utils/router';
 import { useUserStoreHook } from '@/store/modules/user';
 import loginIcon from '@/assets/imgs/login/team_up.svg';
 import { debounce } from 'lodash';
-console.log(111);
+console.log(2222);
 const userStore = useUserStoreHook();
 
 const userInfo = reactive({
