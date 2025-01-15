@@ -2,7 +2,7 @@
    <div class="login-box">
       <img class="login-img" :src="loginIcon" />
       <div class="login-form">
-         <h1>SV3-Template</h1>
+         <h1>你好LYH</h1>
          <el-form
             ref="ruleFormRef"
             class="login-info"
